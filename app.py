@@ -34,7 +34,7 @@ def load_models_and_db():
 # Memuat semuanya sekali saat aplikasi pertama kali dijalankan
 llm_agent, embedder, db = load_models_and_db()
 
-def search_document(database, query, k_top=5):
+def search_document(database, query, k_top=3):
     """Fungsi untuk mencari dokumen relevan di database."""
     results = []
     
