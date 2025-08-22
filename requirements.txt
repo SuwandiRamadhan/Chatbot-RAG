@@ -1,0 +1,11 @@
+ollama
+
+mysql-connector-python
+
+transformers
+
+pandas
+
+torch
+
+streamlit
