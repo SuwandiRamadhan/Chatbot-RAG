@@ -1,0 +1,3 @@
+venv ada di local, terkendala upload jadi tidak di submit ke github
+
+pembuatan project awal menggunakan CachyOS linux tapi waktu install ulang menggunakan windows jadi yang di upload ke github ini code windows
